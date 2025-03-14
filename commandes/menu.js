@@ -40,13 +40,13 @@ const date = moment().format('DD/MM/YYYY');
 │   *Heure* : ${temps}
 │   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │   *Plateforme* : ${os.platform()}
-│   *Developer* :  JAVIEL TECH💞
+│   *Developer* :  BUG_X TECH🧑‍💻
 ╰─────✧WA-BOT✧─────◆ \n\n`;
     
 let menuMsg = `
 👋 Hi ${nomAuteurMessage} 👋
 
-*Javiel Md commands :*
+*𝙳𝙰𝚁𝙺/𝙱𝚄𝙶_𝚇 Md commands :*
 ◇                             ◇
 `;
 
@@ -63,9 +63,9 @@ let menuMsg = `
     menuMsg += `
 ◇            ◇
 *»»————— ★ —————««*
-The best whatsapp bot  ${prefixe}"created by javiel"
+The best whatsapp bot  ${prefixe}"created by 𝙳𝙰𝚁𝙺/𝙱𝚄𝙶_𝚇"
  
- powered by javiel-md
+ powered by 𝚂𝙸𝙶𝙼𝙰-md
                                                 
 *»»————— ★ —————««*
 `;
