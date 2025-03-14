@@ -29,6 +29,6 @@
 - <a href="https://sigma-md-d2f2390bd88e.herokuapp.com/pair"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/TAP FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="220" height="38.45"/></a>
 </p>
 
-# ᴅᴇᴘʟᴏʏ ʙᴏᴛ
+ᴅᴇᴘʟᴏʏ ʙᴏᴛ
 - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Jaydendev112/SIGMA-md"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-purple?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
 
