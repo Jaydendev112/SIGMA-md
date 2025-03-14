@@ -9,3 +9,12 @@
 <p align="center">
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a> <a>
 <p align="center">
+
+
+
+![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://files.catbox.moe/ly6v78.jpeg)
+
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=red&center=true&width=910&height=100&lines=SIGMA+MD+BOT+;KEEP+LOVING+SIGMA-MD;FORK+AND+STAR🌟+THIS+REPO;THANKYOU+FOR+CHOOSING;SIGMA-MD" alt="Typing SVG" /></a>
+</p>
