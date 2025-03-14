@@ -14,6 +14,11 @@
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://files.catbox.moe/ly6v78.jpeg)
 
 
+# ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
+</a></p>
+- <a href="https://github.com/Jaydendev112/SIGMA-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=porsche&logoColor=yellow" width="240" height="38.45"/></a></p>
+
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=red&center=true&width=910&height=100&lines=SIGMA+MD+BOT+;KEEP+LOVING+SIGMA-MD;FORK+AND+STAR🌟+THIS+REPO;THANKYOU+FOR+CHOOSING;SIGMA-MD" alt="Typing SVG" /></a>
 </p>
