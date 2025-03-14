@@ -1,6 +1,6 @@
 {
   "name": "🧑‍💻SIGMA",
-  "description": "This BOT was developed by 𝙳𝙰𝚁𝙺/𝙱𝚄𝙶_𝚇👻.",
+  "description": "This BOT was developed by 𝙳𝙰𝚁𝙺/𝙱𝚄𝙶_𝚇🧑‍💻.",
   "keywords": [
     "bot",
     "node",
@@ -111,7 +111,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "JAVIEL"
+      "value": "𝙳𝙰𝚁𝙺/𝙱𝚄𝙶_𝚇"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple '254')",
