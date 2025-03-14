@@ -2,9 +2,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-POPKID MD
+SIGMA MD
 
-Made by dev popkid
+Made by dev DARK/BUG_X
 
 
                  _.u[[/;:,.         .odMMMMMM'
@@ -21,7 +21,7 @@ Made by dev popkid
  dMMMMMMM@^`       `^^^^
 YMMMUP^
 
- Unclone version 😂🤣
+ Unclone version 😈
 
  **/
 
