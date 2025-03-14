@@ -26,7 +26,7 @@
 
 # ɢᴇᴛ ᴘᴀɪʀ ᴄᴏᴅᴇ
 </a></p>
-- <a href="https://angle-m-a822fc52154a.herokuapp.com/pair"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/TAP FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="220" height="38.45"/></a>
+- <a href="https://sigma-md-d2f2390bd88e.herokuapp.com/pair"><img title="TAP FOR SESSION ID" src="https://img.shields.io/badge/TAP FOR SESSION ID-h?color=pink&style=for-the-badge&logo=porsche&logoColor=pink" width="220" height="38.45"/></a>
 </p>
 
 # ᴅᴇᴘʟᴏʏ ʙᴏᴛ
