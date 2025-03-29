@@ -84,7 +84,7 @@ let menuMsg = `
         externalAdReply: {
           title: "𝗗𝗔𝗥𝗞 𝗨𝗖𝗘𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦",
           body: "Follow my channel for more updates",
-          thumbnailUrl: "https://files.catbox.moe/nk71o3.jpg",
+          thumbnailUrl: "https://i.ibb.co/5hwBmkb8/images-25.jpg",
           sourceUrl: conf.GURL,
           mediaType: 1,
             renderLargerThumbnail: true,
@@ -113,8 +113,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
               serverMessageId: 143},
         externalAdReply: {
           title: "𝗗𝗔𝗥𝗞 𝗨𝗖𝗘𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦",
-          body: "Follow my channel for more updates",
-          thumbnailUrl: "https://files.catbox.moe/nk71o3.jpg",
+          body: "https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26",
+          thumbnailUrl: "https://i.ibb.co/5hwBmkb8/images-25.jpg",
           sourceUrl: conf.GURL,
           mediaType: 1,
             renderLargerThumbnail: true,
@@ -141,8 +141,8 @@ else {
               serverMessageId: 143},
         externalAdReply: {
           title: "𝗗𝗔𝗥𝗞 𝗨𝗖𝗘𝗬 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦",
-          body: "Follow my channel for more updates",
-          thumbnailUrl: "https://files.catbox.moe/nk71o3.jpg",
+          body: "https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26",
+          thumbnailUrl: "https://i.ibb.co/5hwBmkb8/images-25.jpg",
           sourceUrl: conf.GURL,
           mediaType: 1,
             renderLargerThumbnail: true
