@@ -28,8 +28,8 @@ zokou({
         'contextInfo': {
           'mentionedJid': [_0x2cdfbb],
           'externalAdReply': {
-            'title': "THE POPKID XTECH BOT",
-            'body': "MADE BY POPKID",
+            'title': "THE dark BOT",
+            'body': "MADE BY Dark tech",
             'thumbnailUrl': "https://files.catbox.moe/w5xf3f.jpg",
             'sourceUrl': "https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26",
             'mediaType': 0x1,
